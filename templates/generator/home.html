@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    {% load bootstrap4 %}
+    <script src="{% bootstrap_jquery_url %}"></script>
+    {% bootstrap_javascript %}
+    {% bootstrap_css %}
     <title>Title</title>
 </head>
 <body>
+<div class="container text-center" >
 <h1>Password Generator</h1>
 <form action="{% url 'password' %}">
     <select name="length">
@@ -17,7 +23,7 @@
         <option value="12" selected="selected">12</option>
         <option value="13">13</option>
         <option value="14">14</option>
-    </select>
+    </select> Length password
     <br>
     <input type="checkbox" name="Uppercase">UpperCase
     <br>
@@ -25,7 +31,12 @@
     <br>
     <input type="checkbox" name="Special">Special
     <br>
-    <input type="submit" value="Generate Password">
+    <input type="submit" value="Generate Password" class="btn btn-primary">
+    <br>
+    <br>
+    <br>
+    <a href = '{% url 'about' %}'> О программе </a>
 </form>
+    </div>
 </body>
 </html>

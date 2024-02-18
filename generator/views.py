@@ -30,3 +30,6 @@ def password(request):
     for i in range(0, lenght):
         thepassword += random.choice(alphabet)
     return render(request, 'generator/password.html', {'password': thepassword})
+
+def about(request):
+    return render(request, 'generator/about.html')

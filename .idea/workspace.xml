@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6bddabd-2af9-45e7-9442-05cac037fbe9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/generator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/generator/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/generator/password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/generator/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Password_Generator/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password_Generator/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Password_Generator/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password_Generator/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/generator/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/generator/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/generator/password.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/generator/password.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,23 +48,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Password_Generator" type="Python.DjangoServer" factoryName="Django server">
       <module name="Password_Generator" />
@@ -112,7 +107,9 @@
       <option name="presentableId" value="Default" />
       <updated>1707827793341</updated>
       <workItem from="1707827796340" duration="1118000" />
-      <workItem from="1707901507346" duration="12087000" />
+      <workItem from="1707901507346" duration="12523000" />
+      <workItem from="1708170899159" duration="3196000" />
+      <workItem from="1708221416225" duration="718000" />
     </task>
     <servers />
   </component>
@@ -132,5 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="end  14/09/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
