@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6bddabd-2af9-45e7-9442-05cac037fbe9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/generator/about.html" afterDir="false" />
+    <list default="true" id="f6bddabd-2af9-45e7-9442-05cac037fbe9" name="Changes" comment="End">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Password_Generator/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password_Generator/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Password_Generator/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password_Generator/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/generator/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/generator/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/generator/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/generator/password.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/generator/password.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gottwalld&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bb718f00-9a45-4f96-9d3a-4512896d1b9d" />
+        <option name="url" value="https://github.com/Gottwalld/Password_Generator.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/templates/generator/home.html" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
@@ -52,10 +60,11 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.Password_Generator.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -73,6 +82,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Password_Generator.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -109,8 +119,20 @@
       <workItem from="1707827796340" duration="1118000" />
       <workItem from="1707901507346" duration="12523000" />
       <workItem from="1708170899159" duration="3196000" />
-      <workItem from="1708221416225" duration="718000" />
+      <workItem from="1708221416225" duration="982000" />
+      <workItem from="1708235397576" duration="4038000" />
+      <workItem from="1708239937026" duration="260000" />
+      <workItem from="1708243462838" duration="299000" />
     </task>
+    <task id="LOCAL-00001" summary="End">
+      <option name="closed" value="true" />
+      <created>1708222226741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708222226741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="end  14/09/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="End" />
+    <option name="LAST_COMMIT_MESSAGE" value="End" />
   </component>
 </project>
